@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://raphaelmaracaipe.github.io/estudos-ia-editor-markdown-prd/sitemap.xml
+Sitemap: https://raphaelmaracaipe.github.io/editor.md/sitemap.xml
